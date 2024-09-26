@@ -1,2 +1,2 @@
 this is index file
-this is feature brach new changes
+this is feature1 brach new changes for merging
