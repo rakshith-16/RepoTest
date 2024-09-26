@@ -1,2 +1,6 @@
 this is index file
+<<<<<<< HEAD
 this is feature1 brach new changes for merging
+=======
+this is main brach new changes
+>>>>>>> main
